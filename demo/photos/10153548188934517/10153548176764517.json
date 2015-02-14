@@ -1,0 +1,10 @@
+{
+  "@context" : "http://schema.org/",
+  "@id" : "10153548176764517.jpg",
+  "@type" : "Photograph",
+  "dateCreated" : "2015-01-18T15::09:54-08:00",
+  "contentLocation" : {
+     "@type" : "Place",
+     "geo" : { "@type" : "GeoCoordinates", "latitude" : 38.000980555556, "longitude" : -122.46099166667 }
+   }
+}

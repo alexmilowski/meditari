@@ -1,0 +1,39 @@
+.meditari-photograph {
+   margin-bottom: 1em;
+}
+.meditari-photograph img {
+   clear: both;
+}
+.meditari-info {
+   background-color: white;
+   width: 15em;
+   margin-right: 1em;
+   float: left;
+}
+
+.meditari-info p {
+   margin: 0em;
+   padding: 0.5em;
+   margin-left: 0.5em;
+}
+
+.meditari-info .meditari-comment {
+   margin: 0em;
+   padding: 0.5em;
+   border: 2px solid orange;
+   margin-left: 0.5em;
+}
+
+
+.meditari-info button {
+   float: right;
+   display: block;
+}
+
+.meditari-annotation {
+   border: 2px solid orange;
+}
+
+.meditari-location-map {
+   height: 180px;
+}
